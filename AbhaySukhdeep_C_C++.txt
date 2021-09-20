@@ -1,0 +1,64 @@
+C, C++
+
+- Programming Language
+- Programming: set of instructions/statements
+- Language: C, C++, Java, C# etc
+
+Human: English
+Computer System: Binary - 0 or 1
+
+Human - English -- Compiler/translator -- Binary Language --> Computer System
+
+English - High Level Language
+Binary - Low Level Language
+
+Compiler : HLL to LLL, LLL to HLL
+
+C syllabus: Procedural Language
+
+1. Basics of C: Data Types, Variables, Operators
+2. Conditional / Comparison Statements: if - else, if else if else, 
+switch, conditional Operator
+3. Loops - for, while, do - while
+4. Arrays - 1D, 2D, 3D
+5. Functions
+
+C++ : Object Oriented Programming Language
+
+1. Class and object
+2. Encapsulation and Abstraction
+3. Inheritance
+4. Polymorphism
+5. Static, abstract
+
+IDE: Integrated Development Environment
+
+1. Turbo
+2. Code::blocks
+
+// --> single line comment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

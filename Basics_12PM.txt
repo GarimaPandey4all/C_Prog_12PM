@@ -1,0 +1,11 @@
+English: Source Code
+i - intermediate file - source code + header file code
+.obj: Binary code/Object code
+
+Library(Dictionary) File: Predefined Files
+
+4. Loader
+
+.exe - executable file - Software/application
+
+- exe - System Readable File not Human Readable File
