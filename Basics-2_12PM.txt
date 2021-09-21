@@ -1,0 +1,41 @@
+C - Programming Language
+
+- Procedural/Procedure/Function Programming
+- turbo - C, C++
+
+// - Single Line Comment
+/*
+Multiple Line Comment
+
+*/
+
+Comments are Ignore by compiler
+
+Compiler / Translator
+English to Machine Code/Binary Code/Object Code
+English to 0 or 1
+High Level L to Low Level L
+
+Run/ Execution
+
+RAM: Random Access Memory
+- Primary Memory
+- Temporary Memory
+- Main Memory
+
+Heap : Dynamic Memory Allocation
+Stack(Last in First Out) : Static Memory Allocation
+code section
+
+exe - executable file
+it is only readable by system not human
+
+
+
+
+
+
+
+
+
+
