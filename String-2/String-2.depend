@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1635051533 source:e:\core-programming-batches\c++_programs_oct_6pm\string-2\main.c
+	<stdio.h>
+	<stdlib.h>
+
