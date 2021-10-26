@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1635223567 source:e:\core-programming-batches\c_prog_12pm\fibonacciseries\main.c
+	<stdio.h>
+	<stdlib.h>
+
